@@ -9,7 +9,7 @@ export default function Home() {
 
   return (
     <main>
-      <div>{article.title}</div>;
+      <div></div>;
     </main>
   );
 }
